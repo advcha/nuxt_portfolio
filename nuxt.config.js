@@ -38,7 +38,7 @@ module.exports = {
     }
   },
   router: { 
-    base: '/nuxt-portfolio/' 
+    base: '/nuxt_portfolio/' 
   }
 }
 
