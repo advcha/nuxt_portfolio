@@ -24,3 +24,4 @@ For detailed explanation on how things work, checkout the [Nuxt.js docs](https:/
 =======
 # nuxt_portfolio
 My portfolio website is typical example of static site generated with Nuxt.js.
+Please see in https://advcha.github.io/nuxt_portfolio/
